@@ -1,3 +1,4 @@
 [submodule "Client"]
 	path = Client
 	url = https://github.com/atparte1/Client.git
+	branch = master
